@@ -69,7 +69,7 @@ Finally running the server on 0.0.0.0:8001 IP so that it is available publicly. 
 
 
 
-Using docker to deploying the Django web server
+Using docker to deploy the Django web server
 
 
 
