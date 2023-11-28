@@ -26,7 +26,8 @@ Manual Steps for deploying the Django application
 After installing all the necessary components such as pip and Django, using migration command to manage database schema
 
 
-	![Picture4](https://github.com/mooorey/plusw-class-5-task3/assets/59121431/37fbdb65-b037-4ab2-b65e-dc8672b55cc6)
+![Picture4](https://github.com/mooorey/plusw-class-5-task3/assets/59121431/d72e79b7-fd4c-47ac-bda6-52e4194ae18a)
+
 
 
 
@@ -75,8 +76,7 @@ Using docker to deploying the Django web server
 After installing docker, creating a docker file which will automate the steps to deploy the django server 
 
 
-	![Picture8](https://github.com/mooorey/plusw-class-5-task3/assets/59121431/3e28a821-acf5-43a5-b856-9f6b60f7c2a2)
-
+![Picture8](https://github.com/mooorey/plusw-class-5-task3/assets/59121431/0091d016-92a8-4644-b0c3-03d25902a75b)
 
 
 Docker file is successfully built 
